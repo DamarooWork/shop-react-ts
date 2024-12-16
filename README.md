@@ -1,2 +1,2 @@
 # shop-react-ts
-Show on react with TypeScript
+SPA Shop on react with TypeScript
