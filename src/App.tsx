@@ -9,9 +9,9 @@ function App() {
     <>
       <Navigation />
       <Routes>
-        <Route path="/" element={<ProductPage />} />
-        <Route path="/about" element={<AboutPage />} />
-        <Route path="/profile" element={<ProfilePage />} />
+        <Route path="/shop-react-ts/products" element={<ProductPage />} />
+        <Route path="/shop-react-ts/about" element={<AboutPage />} />
+        <Route path="/shop-react-ts/profile" element={<ProfilePage />} />
       </Routes>
     </>
   )
