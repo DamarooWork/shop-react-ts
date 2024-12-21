@@ -6,7 +6,7 @@ export function Navigation() {
       <span className="font-bold">React 2024</span>
 
       <span>
-        <Link to="/shop-react-ts/products" className="mr-2">
+        <Link to="/shop-react-ts/" className="mr-2">
           Products
         </Link>
         <Link to="/shop-react-ts/about" className="mr-2">

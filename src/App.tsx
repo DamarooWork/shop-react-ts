@@ -9,7 +9,7 @@ function App() {
     <>
       <Navigation />
       <Routes>
-        <Route path="/shop-react-ts/products" element={<ProductPage />} />
+        <Route path="/shop-react-ts/" element={<ProductPage />} />
         <Route path="/shop-react-ts/about" element={<AboutPage />} />
         <Route path="/shop-react-ts/profile" element={<ProfilePage />} />
       </Routes>
